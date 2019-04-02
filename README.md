@@ -1,0 +1,2 @@
+# JavaNote
+Note for Java
